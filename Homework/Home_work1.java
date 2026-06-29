@@ -1,4 +1,4 @@
-package lec_02;
+package Homework;
 
 import javax.swing.event.MenuDragMouseListener;
 import java.util.Arrays;
@@ -15,6 +15,7 @@ public class Home_work1 {
             System.out.println("Product name: " + productName);
             System.out.println("Price EUR: " + priceEUR);
             System.out.println("Delivery Address: " + address);
+            System.out.println();
 
         order = 2; //drugi raz nie trzeba pisać typ zmiennej bo już to było zapiane
         clientName = "John";
