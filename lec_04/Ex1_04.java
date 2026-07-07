@@ -1,4 +1,4 @@
-public class Ex1 {
+public class Ex1_04 {
     static void main(String[] args) {
         int a = Integer.parseInt(args[0]);
         int b = Integer.parseInt(args[1]);

@@ -8,8 +8,6 @@ public class Ex9 {
 
         //int proceWithoutVat?
 
-        double priceWithoutVat = ("%dn"priceVat * 100 / 120);
-        System.out.println(priceWithoutVat);
 
 
 

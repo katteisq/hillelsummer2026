@@ -1,6 +1,4 @@
-import java.util.Arrays;
-
-public class Ex2 {
+public class Ex2_04 {
     static void main(String[] args) {
         int r = 5;
 
