@@ -11,11 +11,11 @@ public class Home_work04 {
         double priceL = totalL / daysL;
 
         System.out.println(" ----------------------------------------------------------------------");
-        System.out.printf("|  %-15s  |  EUR %-12s  |  %-10s  |  %-12s|%n", "Product", "Price", "Days", "Total");
+        System.out.printf("|  %-15s  |  EUR %-12s  |  %-10s  |  %-12s|%n", "Product", "Sales by day", "Days", "Total");
         System.out.println("|----------------------------------------------------------------------|");
-        System.out.printf("|  %-15s  |  EUR %-12f  |  %-10d  |  %-12.2f|%n", product1, priceS, daysS, totalS);
+        System.out.printf("|  %-15s  |  EUR %-12.2f  |  %-10d  |  %-12.2f|%n", product1, priceS, daysS, totalS);
         System.out.println("|----------------------------------------------------------------------|");
-        System.out.printf("|  %-15s  |  EUR %-12f  |  %-10d  |  %-12.2f|%n", product2, priceL, daysL, totalL);
+        System.out.printf("|  %-15s  |  EUR %-12.2f  |  %-10d  |  %-12.2f|%n", product2, priceL, daysL, totalL);
         System.out.println(" ----------------------------------------------------------------------");
     }
 }
