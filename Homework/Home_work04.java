@@ -21,10 +21,10 @@ public class Home_work04 {
 }
 
 /* %12 - kolumna szerokością 12 symboli wyrównane do prawej
-    %-12 - -//- wurównana do lewej za pomocą minusa
+    %-12 - -//- wyrównana do lewej za pomocą minusa
     s - string
     d - decimal/integral (liczby całkowite)
-    f - floatinf point (ułamki)
+    f - floating point (ułamki)
     %n - new line
 
  */
