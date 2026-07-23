@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Arrays;
 import java.util.Random; // obowiązkowo, dajemy zrozumieć że Java musi podłączyć ten element
 
